@@ -27,8 +27,8 @@
    │  ├─ image-search-flow-2thread_15min/
    │  └─ image-search-flow-3thread-15min/
    └─ full-flow_text_search/
-      ├─ edit-2thread-15min/
-      └─ edit-3thread-15min/
+      ├─ text_search-flow-2thread-15min/
+      └─ text_search-flow-3thread-15min/
 ```
 
 ## 说明
