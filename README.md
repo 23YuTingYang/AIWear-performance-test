@@ -33,8 +33,8 @@
 ## 说明
 
 - `AIWear_轻量接口数据预置.jmx` 仅用于准备轻量接口测试数据，不是正式压测场景。
+- `AIWear_混合场景性能测试_5并发.jmx` 对应 `mixed_scene_5thread` 结果，是混合场景 5 并发边界测试脚本。
 - CSV 文件已脱敏，密码、图片路径和 OSS URL 使用示例值替代。
 - JMX 文件已将服务器地址替换为 `your-server-host`，复现测试时需要改成实际测试环境地址。
 - JTL 文件已将 URL 中的服务器地址替换为 `your-server-host`，响应时间、错误率、吞吐等原始指标保持不变。
 - HTML 报告用于查看 JMeter 生成的 Statistics、Response Times、Throughput 等结果页面。
-
